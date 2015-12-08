@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1449554381 source:/home/freddy/development/RaspberryPi/CasaInteligente/CasaInteligente.cpp
+	<string.h>
+	<string>
+	<vector>
+	<stdio.h>
+	<iostream>
+	<stdio.h>
+	"Sensores.h"
+	"CasaInteligente.h"
+
+1449551976 /home/freddy/development/RaspberryPi/CasaInteligente/Sensores.h
+
+1449551875 /home/freddy/development/RaspberryPi/CasaInteligente/CasaInteligente.h
+
+1449554423 source:/home/freddy/development/RaspberryPi/CasaInteligente/Main.cc
+	<string.h>
+	<string>
+	<stdio.h>
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<unistd.h>
+	"Sensores.h"
+	"CasaInteligente.h"
+
+1449554220 source:/home/freddy/development/RaspberryPi/CasaInteligente/Sensores.cpp
+	<string.h>
+	<string>
+	<stdio.h>
+	<iostream>
+	<stdio.h>
+	"Sensores.h"
+
+1449554381 source:/home/alonso/Documentos/C++/ProyectoFinal/CasaInteligente/CasaInteligente.cpp
+	<string.h>
+	<string>
+	<vector>
+	<stdio.h>
+	<iostream>
+	<stdio.h>
+	"Sensores.h"
+	"CasaInteligente.h"
+
+1449551976 /home/alonso/Documentos/C++/ProyectoFinal/CasaInteligente/Sensores.h
+
+1449551875 /home/alonso/Documentos/C++/ProyectoFinal/CasaInteligente/CasaInteligente.h
+
+1449554423 source:/home/alonso/Documentos/C++/ProyectoFinal/CasaInteligente/Main.cc
+	<string.h>
+	<string>
+	<stdio.h>
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<unistd.h>
+	"Sensores.h"
+	"CasaInteligente.h"
+
+1449554220 source:/home/alonso/Documentos/C++/ProyectoFinal/CasaInteligente/Sensores.cpp
+	<string.h>
+	<string>
+	<stdio.h>
+	<iostream>
+	<stdio.h>
+	"Sensores.h"
+
